@@ -7,12 +7,12 @@ import (
 
 	"github.com/Ullaakut/disgo"
 	"github.com/Ullaakut/disgo/style"
-	curl "github.com/Ullaakut/go-curl"
+	curl "github.com/ilmari-lauhakangas/go-curl"
 )
 
 const (
-	defaultCredentialDictionaryPath = "${GOPATH}/src/github.com/Ullaakut/cameradar/dictionaries/credentials.json"
-	defaultRouteDictionaryPath      = "${GOPATH}/src/github.com/Ullaakut/cameradar/dictionaries/routes"
+	defaultCredentialDictionaryPath = "${GOPATH}/src/github.com/ilmari-lauhakangas/cameradar/dictionaries/credentials.json"
+	defaultRouteDictionaryPath      = "${GOPATH}/src/github.com/ilmari-lauhakangas/cameradar/dictionaries/routes"
 )
 
 // Scanner represents a cameradar scanner. It scans a network and

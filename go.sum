@@ -6,8 +6,6 @@ github.com/PuerkitoBio/goquery v1.5.0 h1:uGvmFXOA73IKluu/F84Xd1tt/z07GYm8X49XKHP
 github.com/PuerkitoBio/goquery v1.5.0/go.mod h1:qD2PgZ9lccMbQlc7eEOjaeRlFQON7xY8kdmcsrnKqMg=
 github.com/Ullaakut/disgo v0.3.1 h1:BGGVHynji41KGuGI02ztTCnILRvyzlvmiCRl5bBpjKk=
 github.com/Ullaakut/disgo v0.3.1/go.mod h1:/CSvpnYVSKOeh2dvUvx9cXshzz2t7T1/lRO/MrFj3fI=
-github.com/Ullaakut/go-curl v0.0.0-20190525093431-597e157bbffd h1:CMe+dX1CL4pCXNytxIB2U1qp0xZObGMZosJhaQdUlUo=
-github.com/Ullaakut/go-curl v0.0.0-20190525093431-597e157bbffd/go.mod h1:u8mVgpDT88IPIt1B+Tu8vkrcFfBKGcfGwS9I7wmvMh0=
 github.com/Ullaakut/nmap v2.0.0+incompatible h1:tNXub052dsnG8+yrgpph9nhVixIBdpRRgzvmQoc8eBA=
 github.com/Ullaakut/nmap v2.0.0+incompatible/go.mod h1:fkC066hwfcoKwlI7DS2ARTggSVtBTZYCjVH1TzuTMaQ=
 github.com/VividCortex/ewma v1.1.1 h1:MnEK4VOv6n0RSY4vtRe3h11qjxL3+t0B8yOL8iMXdcM=
@@ -54,6 +52,8 @@ github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgf
 github.com/grpc-ecosystem/grpc-gateway v1.9.0/go.mod h1:vNeuVxBJEsws4ogUvrchl83t/GYV9WGTSLVdBhOQFDY=
 github.com/hashicorp/hcl v1.0.0 h1:0Anlzjpi4vEasTeNFn2mLJgTSwt0+6sfsiTG8qcWGx4=
 github.com/hashicorp/hcl v1.0.0/go.mod h1:E5yfLk+7swimpb2L/Alb/PJmXilQ/rhwaUYs4T20WEQ=
+github.com/ilmari-lauhakangas/go-curl v0.0.0-20230405191303-19d63146156a h1:y/bySwO6nLvjRd6gjMStbj8x/oNJ83/OAfcJqhaaMlg=
+github.com/ilmari-lauhakangas/go-curl v0.0.0-20230405191303-19d63146156a/go.mod h1:AyeNtdCEzXXesrKdK1kfjWK8tZN4ZvjR9Dq2k+K4fNo=
 github.com/jonboulle/clockwork v0.1.0/go.mod h1:Ii8DK3G1RaLaWxj9trq07+26W01tbo22gdxWY5EU2bo=
 github.com/julienschmidt/httprouter v1.2.0/go.mod h1:SYymIcj16QtmaHHD7aYtjjsJG7VTCxuUUipMqKk8s4w=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	curl "github.com/Ullaakut/go-curl"
+	curl "github.com/ilmari-lauhakangas/go-curl"
 	"github.com/stretchr/testify/assert"
 )
 

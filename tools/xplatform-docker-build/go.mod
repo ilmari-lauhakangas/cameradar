@@ -1,4 +1,4 @@
-module github.com/Ullaakut/cameradar/magefile
+module github.com/ilmari-lauhakangas/cameradar/magefile
 
 go 1.16
 
